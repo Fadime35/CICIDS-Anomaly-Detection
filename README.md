@@ -22,4 +22,4 @@ CICIDS2017 network traffic dataset is used in this project.
 
 ## Dataset Link
 
-https://www.unb.ca/cic/datasets/ids-2017.html
+https://www.kaggle.com/datasets/bertvankeulen/cicids-2017
